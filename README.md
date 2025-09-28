@@ -21,7 +21,7 @@ git clone https://github.com/your_username/your_project.git
 - Compile and run the Java application (if you are using a framework such as Spring Boot, you can use mvn spring-boot:run).
 - Access the web page via a browser (e.g. http://localhost:8080).
 3. **Edit the code**:
-If you want to add more features or change existing ones, feel free to make changes to the Java and HTML code. After making changes, recompile and redeploy.
+If you want to add more features or change existing ones, feel free to make changes to the HTML code. After making changes, recompile and redeploy.
 ## **Contribute**
 If you want to contribute to this project, feel free to fork the repository, create a new branch, and submit a push request. Here are some ways you can help:
 ## **Suggest improvements or new features.**
